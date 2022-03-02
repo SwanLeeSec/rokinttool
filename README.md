@@ -1,4 +1,4 @@
-# rokinttool
+# ROK OSINT source list
 Republic of Korea (South Korea) specific OSINT source
 
 
